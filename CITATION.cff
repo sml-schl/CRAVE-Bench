@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+title: "CRAVE-Bench: Cultural Relativity Assessment for Visual Expression Benchmark"
+message: "If you use this dataset, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - family-names: "[Author Last Name]"
+    given-names: "[Author First Name]"
+    affiliation: "[University Name]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/sml-schl/CRAVE-Bench"
+url: "https://github.com/sml-schl/CRAVE-Bench"
+abstract: >-
+  CRAVE-Bench is a synthetic multimodal benchmark dataset designed to evaluate
+  cross-cultural bias in vision-language models (VLMs) for hateful meme detection.
+  The benchmark comprises 27 images organized into three evaluation strata:
+  consensus cases (universal agreement), divergence cases (culturally-dependent
+  interpretation), and outlier cases (adversarial inputs). Unlike existing benchmarks
+  that assume universal ground truth labels, CRAVE-Bench explicitly incorporates
+  cultural divergence as a first-class evaluation dimension.
+keywords:
+  - multimodal AI
+  - hateful memes
+  - cross-cultural bias
+  - vision-language models
+  - benchmark dataset
+  - content moderation
+  - AI fairness
+  - cultural relativism
+license: CC-BY-NC-SA-4.0
+version: 1.0.0
+date-released: "2026-01-15"
+references:
+  - type: article
+    authors:
+      - family-names: Kiela
+        given-names: Douwe
+      - family-names: Firooz
+        given-names: Hamed
+      - family-names: Mober
+        given-names: Aravind
+      - family-names: Goswami
+        given-names: Vedanuj
+      - family-names: Sivakumar
+        given-names: Amanpreet
+      - family-names: Ringshia
+        given-names: Pratik
+      - family-names: Testuggine
+        given-names: Davide
+    title: "The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes"
+    journal: "Advances in Neural Information Processing Systems"
+    year: 2020
+    volume: 33
