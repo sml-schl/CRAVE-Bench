@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../../../Logo.png" alt="AgorAI Logo" width="300"/>
+</p>
+
 # CRAVE-Bench: Cultural Relativity Assessment for Visual Expression Benchmark
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
