@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../../Logo.png" alt="AgorAI Logo" width="300"/>
+  <img src="./Logo.png" alt="AgorAI Logo" width="300"/>
 </p>
 
 # CRAVE-Bench: Cultural Relativity Assessment for Visual Expression Benchmark
