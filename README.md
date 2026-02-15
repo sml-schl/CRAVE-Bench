@@ -306,41 +306,6 @@ dataset = load_dataset("research-org/crave-bench")
 
 ---
 
-## Citation
-
-If you use CRAVE-Bench in your research, please cite:
-
-```bibtex
-@dataset{crave_bench_2026,
-  title     = {{CRAVE-Bench}: Cultural Relativity Assessment for Visual Expression Benchmark},
-  author    = {[Author Name]},
-  year      = {2026},
-  month     = {January},
-  version   = {1.0.0},
-  publisher = {GitHub},
-  note      = {A synthetic benchmark dataset for evaluating cross-cultural bias in 
-               vision-language models for hateful meme detection},
-  url       = {https://github.com/sml-schl/CRAVE-Bench}
-}
-```
-
-### Related Publications
-
-This dataset was developed as part of Master's thesis research on multimodal bias mitigation:
-
-```bibtex
-@mastersthesis{author_2026_thesis,
-  title  = {Mitigating Cultural Bias in Multimodal AI: A Framework for 
-            Democratic Synthesis of Diverse Perspectives},
-  author = {[Author Name]},
-  year   = {2026},
-  school = {[University Name]},
-  type   = {Master's Thesis}
-}
-```
-
----
-
 ## License
 
 This dataset is released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License** (CC BY-NC-SA 4.0).
